@@ -1,7 +1,7 @@
 # GenderLens
 
 <p align="center">
-  <img src="./banner.png" alt="GenderLens Banner">
+  <img src="./banner.jpg" alt="GenderLens Banner">
 </p>
 
 
