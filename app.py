@@ -5,22 +5,16 @@ import numpy as np
 import tensorflow as tf
 
 
-# --------------------------------------------------
-# 1. Streamlit поставувања
-# --------------------------------------------------
 
 st.set_page_config(
-    page_title="GRDA",
+    page_title="GRAP",
     page_icon="👤",
     layout="centered"
 )
 
 
-# --------------------------------------------------
-# 2. Наслов
-# --------------------------------------------------
 
-st.title("👤 Gender Recognition Demo App")
+st.title("👤 GenderLens – Gender Representation Analysis Platform ")
 
 st.write(
     "Upload an image containing one or more faces "
